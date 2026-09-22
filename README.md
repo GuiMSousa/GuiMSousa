@@ -90,13 +90,13 @@ Graduando em **Sistemas de Informação pela Faculdade Impacta** com formação 
 
 <div align="center">
 
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=GuiMSousa&show_icons=true&bg_color=00000000&title_color=00E676&text_color=C9D1D9&icon_color=00E676&border_color=00E676" alt="Estatísticas do GitHub" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=GuiMSousa&layout=compact&bg_color=00000000&title_color=00E676&text_color=C9D1D9&icon_color=00E676&border_color=00E676" alt="Linguagens mais usadas" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api?username=GuiMSousa&show_icons=true&bg_color=0D1117&title_color=00E676&text_color=C9D1D9&icon_color=00E676&border_color=00E676" alt="Estatísticas do GitHub" />
+  <img height="165" src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=GuiMSousa&layout=compact&bg_color=0D1117&title_color=00E676&text_color=C9D1D9&icon_color=00E676&border_color=00E676" alt="Linguagens mais usadas" />
 
   <br />
   <br />
 
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=GuiMSousa&theme=transparent&background=0D1117&fire=00E676&ring=00E676&currStreakLabel=00E676&title=00E676&text=C9D1D9&border=00E676" alt="Streak Stats" />
+  <img src="https://streak-stats.demolab.com?user=GuiMSousa&theme=transparent&background=0D1117&fire=00E676&ring=00E676&currStreakLabel=00E676&title=00E676&text=C9D1D9&border=00E676" alt="Streak Stats" />
 
   <br />
   <br />
